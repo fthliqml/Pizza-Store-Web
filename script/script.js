@@ -29,9 +29,11 @@ $(".nav-link").click(function (e) {
   $(this).addClass("active");
 
   let kategori = $(this).html();
+  console.log(kategori);
   $("#title").html(kategori);
 
   if (kategori == "All Menu") {
+    $("#daftar-menu").html("");
     showAllMenu();
     return;
   }
