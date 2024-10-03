@@ -9,5 +9,5 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
 </div>
 
-# `## ˙✧˖°📷 ༘ ⋆｡° Documentation`
+# `✧˖°📷 ༘ ⋆｡° Documentation`
 <kbr>![image](https://github.com/user-attachments/assets/c8342ea1-edf2-4bd9-8f01-4903c147f646)</kbr>
